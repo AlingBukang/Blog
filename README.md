@@ -1,1 +1,0 @@
-**Samut saring kaalaman**
