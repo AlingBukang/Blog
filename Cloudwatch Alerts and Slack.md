@@ -1,6 +1,3 @@
-### Create Cloudwatch alert and publish to Slack     
-&nbsp;
-
 
 **Required:**
 - Slack Webhook URL
